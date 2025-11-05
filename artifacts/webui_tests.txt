@@ -1,0 +1,8 @@
+=== WebUI Test Results ===
+Testing HTTPS on port 2443...
+HTTPS Status: 200
+
+Testing specific pages (with SSL ignore):
+Page /: HTTPS 200
+Page /login: HTTPS 401
+Page /index.html: HTTPS 401
